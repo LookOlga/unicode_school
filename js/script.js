@@ -3,7 +3,7 @@
 window.addEventListener('load', () => {
     setTimeout(function () {
         document.body.classList.add('loaded');
-    }, 200);
+    }, 400);
 })
 
 const bodyTag = document.querySelector('body');
